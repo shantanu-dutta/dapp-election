@@ -1354,12 +1354,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x8fE6A533a33654F7829fDffb02FAec9a881554bb",
-      "transactionHash": "0x566f453cb1254ae988c18aaba32f289cba4f4f5ca15015e2ad1d2a1a54c04077"
+      "address": "0xEFfb2BAd925fC0efEd44C58fe9C807C70652b891",
+      "transactionHash": "0x716d38b354818b0ba2345ee2a695a7e257b802f64030b184dc3296936651bf33"
     }
   },
   "schemaVersion": "3.0.11",
-  "updatedAt": "2019-06-27T08:13:08.955Z",
+  "updatedAt": "2019-06-27T13:23:49.276Z",
   "devdoc": {
     "methods": {}
   },
